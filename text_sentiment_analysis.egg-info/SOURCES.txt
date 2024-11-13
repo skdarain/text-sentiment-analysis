@@ -1,0 +1,17 @@
+README.md
+setup.py
+backend/__init__.py
+backend/config.py
+backend/main.py
+backend/schemas/__init__.py
+backend/schemas/sentiment.py
+backend/scripts/__init__.py
+backend/scripts/train_model.py
+backend/services/__init__.py
+backend/services/data_preprocessing.py
+backend/services/model_operations.py
+backend/services/sentiment_analysis.py
+text_sentiment_analysis.egg-info/PKG-INFO
+text_sentiment_analysis.egg-info/SOURCES.txt
+text_sentiment_analysis.egg-info/dependency_links.txt
+text_sentiment_analysis.egg-info/top_level.txt
