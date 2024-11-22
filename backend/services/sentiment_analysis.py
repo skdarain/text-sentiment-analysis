@@ -1,4 +1,4 @@
-from services.model_operations import load_model, load_vectorizer
+from backend.services.model_operations import load_model, load_vectorizer
 
 def predict_sentiment(text):
     model = load_model()
